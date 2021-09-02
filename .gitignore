@@ -1,0 +1,10 @@
+*.o
+*.cmx
+*.cmi
+bombe
+brute
+cycles
+enigma
+megabrute
+tests
+.depend
